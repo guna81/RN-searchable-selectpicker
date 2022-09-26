@@ -1,2 +1,2 @@
-# RN-searchable-select-picker
+# RN-searchable-selectpicker
 A react native select picker with search functionality
